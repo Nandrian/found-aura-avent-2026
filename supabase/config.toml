@@ -1,0 +1,4 @@
+
+[functions.make-server-acdaa784]
+entrypoint = "./functions/server/index.tsx"
+verify_jwt = false

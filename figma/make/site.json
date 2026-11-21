@@ -1,0 +1,11 @@
+{
+  "title": "Found Aura - The Secret Wardrobe",
+  "description": "Discover daily fashion surprises, interactive style games, and exclusive shopping offers in Found Aura’s elegant Advent calendar, with progress tracking and a grand prize draw.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
